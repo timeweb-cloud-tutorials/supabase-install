@@ -9,8 +9,8 @@ show_progress() {
 
 # Download setting files
 echo "Downloading setting files..."
-wget -q https://raw.githubusercontent.com/TimewebTutorials/supabase-install/refs/heads/main/.env -O ./docker/.env
-wget -q https://raw.githubusercontent.com/TimewebTutorials/supabase-install/refs/heads/main/docker-compose.yml -O ./docker/docker-compose.yml
+wget -q https://raw.githubusercontent.com/timeweb-cloud-tutorials/supabase-install/refs/heads/main/.env -O ./docker/.env
+wget -q https://raw.githubusercontent.com/timeweb-cloud-tutorials/supabase-install/refs/heads/main/docker-compose.yml -O ./docker/docker-compose.yml
 
 # Collect input values
 echo "Please enter the following configuration values:"
