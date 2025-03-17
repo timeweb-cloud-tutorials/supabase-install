@@ -1,0 +1,2 @@
+- 🔗 **Оригинальный репозиторий**: [Timeweb Supabase example](https://github.com/tecspda/timeweb)
+- 📖 **Репозиторий используется в статье**: [Как развернуть Supabase в облаке Timeweb Cloud](https://timeweb.cloud/tutorials/cloud/kak-razvernut-supabase-v-oblake-timeweb-cloud)
